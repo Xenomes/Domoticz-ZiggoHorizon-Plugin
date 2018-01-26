@@ -6,7 +6,7 @@
 # Author: Xorfor
 #
 """
-<plugin key="xfr_ziggomediaboxxl" name="Ziggo Mediabox XL (Kodi remote)" author="Xorfor" version="1.0.0">
+<plugin key="xfr_ziggomediaboxxl" name="Ziggo Mediabox XL (Kodi remote)" author="Xorfor" version="1.0.0" wikilink="https://github.com/Xorfor/Domoticz-ZiggoHorizon-Plugin">
     <params>
         <param field="Address" label="IP Address" width="200px" required="true" default="127.0.0.1"/>
         <param field="Mode6" label="Debug" width="75px">
