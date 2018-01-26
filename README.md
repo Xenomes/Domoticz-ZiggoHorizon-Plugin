@@ -3,7 +3,7 @@ Python plugin for Domoticz to control the Ziggo Mediabox.
 
 This plugin enables you to use the following actions:
 - Toggle power
-- Send key (by remote control popup)
+- Send keys (by remote control popup)
 
 ## Prerequisites
 Your Ziggo Mediabox needs a fixed ip address on your network. An instruction to setup de Ziggo Mediabox can be found:
